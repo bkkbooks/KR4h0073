@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4h0073/WYG/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 具
+  hash: sha256:f2cb95fe3372c26b33a2ec7b7db536a4533b67a56616edf5266c2484ac6c5892
+metadata:
+  title: 河汾諸老詩集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 22:19:12.744138'
+  source:
+    repository: kanripo
+    path: KR4h0073/KR4h0073_009.txt
+hash: sha256:4b3c277649312ba6c4c81b4b6eeb07e20af62869cd0765ba652b543b96321342
