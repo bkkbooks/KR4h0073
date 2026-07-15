@@ -30,6 +30,7 @@ markers:
   - {type: punctuation, offset: 38, content: (, id: KR4h0073_krp_010-bkkpn9}
   - {type: punctuation, offset: 41, content: /, id: KR4h0073_krp_010-bkkpn10}
   - {type: punctuation, offset: 47, content: ), id: KR4h0073_krp_010-bkkpn11}
+  - {type: substitution, offset: 47, original: 艸, replacement: 草, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16863}}
   - {type: punctuation, offset: 48, content: (, id: KR4h0073_krp_010-bkkpn12}
   - {type: 'kr:non-cjk', offset: 51, content: ○, id: KR4h0073_krp_010-bkkkrnonc2}
   - {type: punctuation, offset: 53, content: ), id: KR4h0073_krp_010-bkkpn13}
@@ -155,6 +156,7 @@ markers:
   - {type: punctuation, offset: 261, content: /, id: KR4h0073_krp_010-bkkpn83}
   - {type: punctuation, offset: 266, content: ), id: KR4h0073_krp_010-bkkpn84}
   - {type: punctuation, offset: 267, content: (, id: KR4h0073_krp_010-bkkpn85}
+  - {type: substitution, offset: 269, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4h0073_krp_010-bkkpn1}
   - {type: 'kr:newline', offset: 0, content: '
@@ -180,6 +182,7 @@ markers:
   - {type: line-break, offset: 23, content: '', id: KR4h0073_SBCK_010-1b02}
   - {type: punctuation, offset: 23, content: (, id: KR4h0073_krp_010-bkkpn9}
   - {type: punctuation, offset: 29, content: ), id: KR4h0073_krp_010-bkkpn10}
+  - {type: substitution, offset: 30, original: 㟝, replacement: 培, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0962}}
   - {type: punctuation, offset: 31, content: (, id: KR4h0073_krp_010-bkkpn11}
   - {type: 'kr:non-cjk', offset: 34, content: ○, id: KR4h0073_krp_010-bkkkrnonc2}
   - {type: punctuation, offset: 41, content: ), id: KR4h0073_krp_010-bkkpn12}
@@ -204,6 +207,7 @@ markers:
   - {type: line-break, offset: 68, content: '', id: KR4h0073_SBCK_010-1b04}
   - {type: punctuation, offset: 68, content: (, id: KR4h0073_krp_010-bkkpn23}
   - {type: punctuation, offset: 75, content: ), id: KR4h0073_krp_010-bkkpn24}
+  - {type: substitution, offset: 75, original: 閒, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16567}}
   - {type: punctuation, offset: 77, content: (, id: KR4h0073_krp_010-bkkpn25}
   - {type: 'kr:non-cjk', offset: 80, content: ○, id: KR4h0073_krp_010-bkkkrnonc3}
   - {type: punctuation, offset: 88, content: ), id: KR4h0073_krp_010-bkkpn26}
@@ -380,6 +384,7 @@ markers:
   - {type: punctuation, offset: 380, content: (, id: KR4h0073_krp_010-bkkpn116}
   - {type: punctuation, offset: 387, content: ), id: KR4h0073_krp_010-bkkpn117}
   - {type: punctuation, offset: 388, content: (, id: KR4h0073_krp_010-bkkpn118}
+  - {type: substitution, offset: 390, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 391, content: /, id: KR4h0073_krp_010-bkkpn119}
   - {type: punctuation, offset: 396, content: ), id: KR4h0073_krp_010-bkkpn120}
   - {type: punctuation, offset: 397, content: (, id: KR4h0073_krp_010-bkkpn121}
@@ -498,6 +503,8 @@ markers:
 
       ', id: KR4h0073_krp_010-bkkkrnewl33}
   - {type: line-break, offset: 616, content: '', id: KR4h0073_SBCK_010-2b04}
+  - {type: substitution, offset: 617, original: 尙, replacement: 尚, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19556}}
+  - {type: substitution, offset: 626, original: 粤, replacement: 粵, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20804}}
   - {type: variant, offset: 632, length: 34, content: 皆從此出而款式已非近刻元人選元詩本行款悉同而元本脫誤處已據別本校改不, WYG: 然吾鄉學者}
   - {type: 'kr:newline', offset: 640, content: '
 
@@ -510,10 +517,13 @@ markers:
   - {type: variant, offset: 667, length: 3, content: 影寫本, WYG: 林有能慕河汾}
   - {type: page-break, offset: 667, content: '', id: KR4h0073_WYG_010-2b, image: WYG1365/WYG1365-0646b.png}
   - {type: variant, offset: 671, length: 30, content: 尙存廬山眞面書貴舊刻良有以也今依影寫本影印別爲校語如右壬戌八, WYG: 派觀是集者知所興起云大徳辛丑嵗二}
+  - {type: substitution, offset: 671, original: 尙, replacement: 尚, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19556}}
+  - {type: substitution, offset: 675, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19545}}
   - {type: 'kr:newline', offset: 688, content: '
 
       ', id: KR4h0073_krp_010-bkkkrnewl36}
   - {type: line-break, offset: 688, content: '', id: KR4h0073_SBCK_010-2b07}
+  - {type: substitution, offset: 693, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: variant, offset: 702, length: 4, content: 留菴居士, WYG: 望日横汾隠者房祺序}
   - {type: 'kr:newline', offset: 706, content: '
 
@@ -523,4 +533,4 @@ markers:
 
       ', id: KR4h0073_krp_010-bkkkrnewl38}
   back: []
-hash: sha256:b0bdef270b316a0e775a02251cbfe1fa693424e710f2e959435101258dac4529
+hash: sha256:5b1c8c87b7769d0630fc4a9977332af330b51372e7dc05b8fbc267630d4e25fc
