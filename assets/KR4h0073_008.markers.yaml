@@ -67,6 +67,7 @@ markers:
   - {type: indent, offset: 114, content: 　, id: KR4h0073_krp_008-bkkind3}
   - {type: punctuation, offset: 116, content: (, id: KR4h0073_krp_008-bkkpn1}
   - {type: variant, offset: 116, length: 1, content: 舀, WYG: 允蹈}
+  - {type: voice, offset: 116, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 117, content: ), id: KR4h0073_krp_008-bkkpn2}
   - {type: 'kr:newline', offset: 119, content: '
 
@@ -1346,4 +1347,4 @@ markers:
   - {type: page-break, offset: 2382, content: '', id: KR4h0073_WYG_008-11b, image: WYG1365/WYG1365-0644d.png}
   - {type: page-break, offset: 2382, content: '', id: KR4h0073_WYG_009-1a, image: WYG1365/WYG1365-0645a.png}
   back: []
-hash: sha256:5318a032491dc9802ec1a7cb744b712dc2b647e2192557b622164151b3820f36
+hash: sha256:c85ae05a5c742a48d2adf952b1f9b8bc06c8c338c331d8f501f98dc65022079d

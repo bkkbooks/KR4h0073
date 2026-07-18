@@ -22,6 +22,7 @@ markers:
   - {type: variant, offset: 9, length: 1, content: 叚, WYG: 段}
   - {type: substitution, offset: 9, original: 叚, replacement: 假, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17324}}
   - {type: punctuation, offset: 12, content: (, id: KR4h0073_krp_007-bkkpn1}
+  - {type: voice, offset: 12, length: 2, name: note, id: n1}
   - {type: variant, offset: 13, length: 1, content: 巳, WYG: 已}
   - {type: punctuation, offset: 14, content: ), id: KR4h0073_krp_007-bkkpn2}
   - {type: 'kr:newline', offset: 16, content: '
@@ -809,4 +810,4 @@ markers:
   - {type: variant, offset: 1434, length: 0, content: '', WYG: 欽定四庫全書河汾諸老詩集巻八元房祺編兑}
   - {type: page-break, offset: 1434, content: '', id: KR4h0073_WYG_008-1a, image: WYG1365/WYG1365-0639c.png}
   back: []
-hash: sha256:a916f34253cc0a94eda6184ec4f961ed6d36c1eec383b0736f3060a3fb332d6e
+hash: sha256:3743b46ce4e1af401ec9b8025a3a1887e7785870d757219354a7c4c066c15553

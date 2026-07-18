@@ -21,6 +21,7 @@ markers:
   - {type: line-break, offset: 7, content: '', id: KR4h0073_SBCK_005-1a03}
   - {type: punctuation, offset: 13, content: (, id: KR4h0073_krp_005-bkkpn1}
   - {type: variant, offset: 13, length: 1, content: 皡, WYG: 皥}
+  - {type: voice, offset: 13, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 14, content: ), id: KR4h0073_krp_005-bkkpn2}
   - {type: 'kr:newline', offset: 16, content: '
 
@@ -1130,4 +1131,4 @@ markers:
   - {type: variant, offset: 2077, length: 0, content: '', WYG: 欽定四庫全書河汾諸老詩集巻六元房祺編遯菴段}
   - {type: page-break, offset: 2077, content: '', id: KR4h0073_WYG_006-1a, image: WYG1365/WYG1365-0634c.png}
   back: []
-hash: sha256:c4f89d7ac11bd96121076ae24cd8a8711981524bd78fb22cba037ee9d4267c6b
+hash: sha256:72d26c30993bba42e8d1e32d1feb38dee00ba469256e08a2414f649d5f9d2be2

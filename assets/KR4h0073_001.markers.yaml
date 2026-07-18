@@ -283,6 +283,7 @@ markers:
   - {type: variant, offset: 525, length: 1, content: 㳺, WYG: 游}
   - {type: substitution, offset: 525, original: 㳺, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20160}}
   - {type: punctuation, offset: 526, content: (, id: KR4h0073_krp_001-bkkpn1}
+  - {type: voice, offset: 526, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 532, content: ), id: KR4h0073_krp_001-bkkpn2}
   - {type: 'kr:newline', offset: 532, content: '
 
@@ -1337,6 +1338,7 @@ markers:
   - {type: line-break, offset: 2613, content: '', id: KR4h0073_SBCK_001-10a02}
   - {type: indent, offset: 2613, content: 　　　, id: KR4h0073_krp_001-bkkind25}
   - {type: punctuation, offset: 2623, content: (, id: KR4h0073_krp_001-bkkpn3}
+  - {type: voice, offset: 2623, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 2630, content: ), id: KR4h0073_krp_001-bkkpn4}
   - {type: 'kr:newline', offset: 2630, content: '
 
@@ -1742,4 +1744,4 @@ markers:
   - {type: variant, offset: 3236, length: 0, content: '', WYG: 欽定四庫全書河汾諸老詩集巻二元房祺編}
   - {type: page-break, offset: 3236, content: '', id: KR4h0073_WYG_002-1a, image: WYG1365/WYG1365-0621c.png}
   back: []
-hash: sha256:79bf9681c5109f84874ca7a84d1d6c774a64c7e025252a90e7530782e38b5090
+hash: sha256:22497f3ddce601a0f6d41957802285499345b7a0e88934c9c87b996b8f0356ab
